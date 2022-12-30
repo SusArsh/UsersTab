@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "first_name": "Mike",
+      "last_name": "Tompson",
+      "age": 45,
+      "email": "asdfaf@mail.ru",
+      "country": "Armenia",
+      "city": "Gyumri",
+      "address": "Ryzhkov 12",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "first_name": "Annie",
+      "last_name": "Tompson",
+      "age": 27,
+      "email": "annie@yahoo.com",
+      "country": "USA",
+      "city": "New-York",
+      "address": "Cennedy 3",
+      "gender": "female",
+      "id": 21
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Hudson",
+      "age": 25,
+      "email": "jack111@gmail.com",
+      "country": "USA",
+      "city": "Washington",
+      "address": "Miami str., 120",
+      "gender": "male",
+      "id": 23
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Hudson",
+      "age": 25,
+      "email": "jack111@gmail.com",
+      "country": "USA",
+      "city": "Washington",
+      "address": "Miami str., 120",
+      "gender": "male",
+      "id": 24
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Hudson",
+      "age": 25,
+      "email": "jack111@gmail.com",
+      "country": "USA",
+      "city": "Washington",
+      "address": "Miami str., 120",
+      "gender": "male",
+      "id": 26
+    }
+  ]
+}
